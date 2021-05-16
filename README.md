@@ -63,8 +63,8 @@ $ python2 Craxk.py
 
 
 ## Screenshot
-* Note! Bila akunya cp simpan saja 1/5 hari nanti kebuka sendiri..
-<img src="https://github.com/Yayan-XD/Cr4ck/blob/main/Screenshot.png" />
+<p align="center">
+ <img src="https://github.com/MRVIVEK-CODER/CRACK/blob/main/Screenshot_20210515-013242__01.jpg" width="640" title="Menu" alt="Menu">
 
 # Turtorial cara dapatkan cokies fb
 Download file [Get Cookie For FPlus](https://www.mediafire.com/file/ci1vwifnxh00jru/embffhododclmgpnabmjmgoekpnoboic-3.3.12-Crx4Chrome.com.crx/file) dan upload ke [Kiwi Browser](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Dkiwi+browser)
