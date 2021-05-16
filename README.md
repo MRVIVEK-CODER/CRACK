@@ -66,13 +66,13 @@ $ python2 Craxk.py
 <p align="center">
  <img src="https://github.com/MRVIVEK-CODER/CRACK/blob/main/Screenshot_20210515-013242__01.jpg" width="640" title="Menu" alt="Menu">
 
-# Turtorial cara dapatkan cokies fb
+# Turtorial How to get cookies
 Download file [Get Cookie For FPlus](https://www.mediafire.com/file/ci1vwifnxh00jru/embffhododclmgpnabmjmgoekpnoboic-3.3.12-Crx4Chrome.com.crx/file) dan upload ke [Kiwi Browser](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Dkiwi+browser)
 
 ## MY SOCIAL MEDIA
-[![](https://img.shields.io/badge/Github-red?logo=Github&logoColor=red&labelColor=white)](https://github.com/Yayan-XD)
-[![](https://img.shields.io/badge/Twitter-blue?logo=Twitter&logoColor=White&labelColor=white)](https://mobile.twitter.com/moch_xd)
-[![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/KM39453)
-[![](https://img.shields.io/badge/Instagram-red?logo=Instagram&logoColor=red&labelColor=white)](https://www.instagram.com/yayanxd_/)
-* Kalo masih kurang paham bisa hubungi WhatsApp👇
-[![](https://img.shields.io/badge/Whatsapp-CHAT-green?logo=Whatsapp&logoColor=red&labelColor=white)](https://wa.me/6285603036683?text=Asalamualaikum+bang)
+[![](https://img.shields.io/badge/Github-red?logo=Github&logoColor=red&labelColor=white)](https://github.com/MRVIVEK-CODER)
+[![](https://img.shields.io/badge/Twitter-blue?logo=Twitter&logoColor=White&labelColor=white)](https://mobile.twitter.com/Vivek_Chandel)
+[![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/Vivek.chandel.420)
+[![](https://img.shields.io/badge/Instagram-red?logo=Instagram&logoColor=red&labelColor=white)](https://www.instagram.com/hacker_solution_by_vivek)
+* WhatsApp👇
+[![](https://img.shields.io/badge/Whatsapp-CHAT-green?logo=Whatsapp&logoColor=red&labelColor=white)](https://wa.me/17087220306?text=Asalamualaikum+bang)
